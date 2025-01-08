@@ -12,13 +12,13 @@ dependencies:
   flutter:
     sdk: flutter
   built_collection: ^5.1.1
-  built_value: 8.5.0
+  built_value: ^8.9.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   test: ^1.25.14
-  build_runner: 2.4.10
+  build_runner: ^2.4.14
   build_test: ^2.2.3
   # If you need to run web tests, you will also need this dependency.
   #  build_web_compilers: any
